@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TopBarView">
+        <attr name="titleText" format="string"/>
+        <attr name="menuText" format="string"/>
+        <attr name="menuImage" format="reference"/>
+        <attr name="rightTextColor" format="color"/>
+        <attr name="leftVisible">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="4"/>
+            <enum name="gone" value="8"/>
+        </attr>
+        <attr name="titleColor" format="color"/>
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
