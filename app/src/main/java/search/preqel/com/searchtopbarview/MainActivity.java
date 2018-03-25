@@ -3,11 +3,8 @@ package search.preqel.com.searchtopbarview;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//主入口类
 public class MainActivity extends AppCompatActivity {
-
-
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

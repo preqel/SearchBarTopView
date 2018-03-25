@@ -48,7 +48,7 @@ public class SearchTopBarView extends RelativeLayout {
         tv_right = findViewById(R.id.tv_right);
         tv_left = findViewById(R.id.tv_left);
         fl_left = findViewById(R.id.fl_left);
-        fl_right = findViewById(R.id.fl_right);
+//        fl_right = findViewById(R.id.fl_right);
         TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.TopBarView);
         String titleValue = typedArray.getString(R.styleable.TopBarView_titleText);
         String rightValue = typedArray.getString(R.styleable.TopBarView_menuText);

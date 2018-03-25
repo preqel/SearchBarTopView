@@ -9,7 +9,6 @@ import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.gezbox.windmessage.R;
 
 /**
  * Created by wangkang on 2018/1/4.
